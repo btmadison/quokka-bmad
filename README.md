@@ -1,2 +1,2 @@
 # quokka-bmad
-setup for basic quokka project
+setup for basic quokka project!
