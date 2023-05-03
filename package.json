@@ -1,0 +1,10 @@
+{
+  "name": "quokka-scratch",
+  "quokka": {},
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.3"
+  }
+}
